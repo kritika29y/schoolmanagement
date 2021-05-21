@@ -1,0 +1,2 @@
+# schoolmanagement
+In basic C++
